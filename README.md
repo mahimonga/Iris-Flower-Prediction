@@ -1,4 +1,6 @@
 # Iris-Flower-Prediction
+
+This project aims to classify the different species of iris flower by Machine Learning.
 <img src="https://miro.medium.com/max/875/1*7bnLKsChXq94QjtAiRn40w.png">
 
 *About the dataset*:
